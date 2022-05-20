@@ -102,7 +102,7 @@ print("Predicted Output: \n",output)
 ```
 
 ## Output:
-![img]()
+![img](https://github.com/20004426-venkatesh/ANN-by-back-propogation-algorithm/blob/main/nn6.jpg)
 
 
 ## Result:
